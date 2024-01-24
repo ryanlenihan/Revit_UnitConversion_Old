@@ -5,8 +5,6 @@
 
 ![alt text](https://i2.wp.com/www.revit.com.au/wp-content/uploads/2019/04/2019-04-24_11-35-52.png?resize=695%2C370&ssl=1)
 
-![alt text](https://i2.wp.com/www.revit.com.au/wp-content/uploads/2019/04/2019-04-24_11-35-52.png?resize=695%2C370&ssl=1)
-
 
 # More details
 Background
