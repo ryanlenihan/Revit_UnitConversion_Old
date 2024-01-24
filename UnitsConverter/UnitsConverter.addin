@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>UnitsConverter</Name>
+    <Assembly>UnitsConverter.dll</Assembly>
+    <AddInId>
+      580FFDC2-7A35-4F9F-A188-A63047ECF027
+    </AddInId>
+    <FullClassName>UnitsConverter.ExternalApplication</FullClassName>
+    <VendorId>MisterMEP</VendorId>
+  </AddIn>
+</RevitAddIns>
